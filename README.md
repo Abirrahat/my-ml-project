@@ -53,3 +53,6 @@ Feel free to fork the repository, make improvements, and submit pull requests. I
 ## License
 
 This project is licensed under the MIT License.
+![Heatmap](https://github.com/user-attachments/assets/834402af-059b-4f36-9fe0-6f660fd274bb)
+![Price VS Area](https://github.com/user-attachments/assets/7d71023d-82ce-4541-aae9-fce32b2c1d1b)
+![Boxplot](https://github.com/user-attachments/assets/ae2c18a8-345b-4e82-87f5-a964cec29e11)
